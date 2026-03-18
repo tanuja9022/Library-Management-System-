@@ -1,0 +1,1 @@
+<img src="pics/bo.jpg" width="150" height="150">

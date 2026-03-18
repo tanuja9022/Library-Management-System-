@@ -1,0 +1,1 @@
+<img src="pics/book.jpg" width="250" height="400">
